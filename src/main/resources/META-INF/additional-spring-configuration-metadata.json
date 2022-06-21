@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "app.jwt.secretWord",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.secretWord."
+    },
+    {
+      "name": "app.jwt.expiredAt",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.expiredAt."
+    }
+  ] }

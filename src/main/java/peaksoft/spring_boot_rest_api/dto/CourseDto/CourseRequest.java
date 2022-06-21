@@ -1,0 +1,17 @@
+package peaksoft.spring_boot_rest_api.dto.CourseDto;
+
+import lombok.Getter;
+import lombok.Setter;
+
+import java.time.LocalDate;
+import java.util.Date;
+
+@Getter
+@Setter
+public class CourseRequest {
+
+    private String name;
+
+    private LocalDate duration;
+
+}
